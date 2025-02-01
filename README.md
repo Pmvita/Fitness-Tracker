@@ -32,19 +32,19 @@ A sleek and intuitive Body Mass Index (BMI) calculator built with React Native a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bmi-calculator-app.git
+    git clone https://github.com/Pmvita/Fitness-Tracker.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    npm install
+    yarn install
     ```
 
 3. Start the app:
 
     ```bash
-    npm start
+    yarn start
     ```
 
 4. Run the app on your device or emulator.
